@@ -1,0 +1,20 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {},
+  "author": "",
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-openid-connect": "^2.4.0",
+    "express-session": "^1.17.2",
+    "is-date-object": "^1.0.2",
+    "passport": "^0.4.1",
+    "passport-auth0": "^1.4.0",
+    "passport-microsoft": "^0.1.0",
+    "serverless-http": "^2.3.1"
+  }
+}
